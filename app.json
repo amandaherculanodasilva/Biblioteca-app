@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Minha Biblioteca",
+    "slug": "biblioteca-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "bibliotecaapp",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": false
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
